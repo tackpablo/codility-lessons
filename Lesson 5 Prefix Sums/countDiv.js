@@ -1,11 +1,11 @@
-// %
+// 100%
 function solution(A, B, K) {
   let count = A % K == 0 ? 1 : 0;
   return count + (Math.floor(B / K) - Math.floor(A / K));
 }
 
-// O() - space
-// O() - time
+// O(1) - space
+// O(1) - time
 
 // 50%
 function solution(A, B, K) {
