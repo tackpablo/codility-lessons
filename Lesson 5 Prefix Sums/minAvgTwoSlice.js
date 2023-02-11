@@ -21,7 +21,7 @@ function solution(A) {
 }
 
 // O(1) - space
-// O(N) - time
+// O(n) - time
 
 // 80%
 // function solution(A) {
@@ -45,7 +45,7 @@ function solution(A) {
 // }
 
 // O(1) - space
-// O(N) - time
+// O(n) - time
 
 // 60%
 // function solution(A) {
